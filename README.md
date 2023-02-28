@@ -13,6 +13,7 @@
     
     [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org/)
     ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+    ![Pytest](https://img.shields.io/badge/-pytest-000?&logo=pytest)
     ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
     [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)](https://www.postgresql.org/)
     [![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://www.mongodb.com/)
