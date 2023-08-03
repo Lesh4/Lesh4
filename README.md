@@ -23,8 +23,6 @@
     ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
     ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesh4&count_private=true&show_icons=true&theme=gotham)
-
 ###
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)](https://t.me/alexeyabakumov)
